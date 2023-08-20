@@ -1,0 +1,20 @@
+/* Estilos para Smartphone */
+
+@media screen and (max-width: 831xp)
+{
+    .contenedor
+    {
+        width: 100%;
+    }
+
+    nav
+    {
+        width: 100%;
+        height: 280px;
+    }
+    nav ul
+    {
+        padding-top: 10px;
+    }
+}
+

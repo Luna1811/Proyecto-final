@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="./CSS/Style.css">
+    <link rel="stylesheet" href="./CSS/mq.css">
+    <link rel="stylesheet" href="./CSS/style2.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Freehand&family=Lilita+One&family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <title>Contenido</title>
+
+
+    
+</head>
+
+<body>
+    <div class="contenedor">
+
+    <header>
+        <nav>
+            <a href="/Index.html"> <img src="./Imagenes/Logo_caras_colors_emociones.png" class="img-logo" alt="Emociones" ></a>
+            <ul>
+                <li><a href="./Index2.html">Inicio</a></li>
+                <li><a href="#Reconoce">Emociones</a></li>
+                <li><a href="./Heridas de infancia2.html">Heridas de infancia</a></li>
+                <li><a href="./Contacto2.html">Contacto</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main> <!-- Contenido principal -->
+       
+       <article>
+           <h1>Las heridas de infancia</h1>
+           <p>
+               Cuando nacemos hay diferentes factores que intervienen directamente en el desarrollo de nuestro crecimiento físico y del bienestar mental; estos factores son algunos genéticos y otros que son adquiridos a medida que vamos crecimiento y que vamos adquiriendo madurez; con el pasar el tiempo logramos identificar diferentes patrones en nuestra vida que se tornan repetitivos o cíclicos y cómo raíz encontramos las diferentes experiencias vividas en nuestros primeros años de vida; es aquí donde situamos las diferentes heridas ocasionadas en la infancia.
+           </p>
+       </article>
+
+   </main>
+
+   <section class="seccion1"> <!-- Sección #1 -->
+       <figure>
+           <iframe width="640" height="360" src="https://www.youtube.com/embed/sEr1vel0LDA" title="Sanando la HERIDA de RECHAZO: Descubriendo lo que realmente valemos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       </figure>
+       <div>
+           <h2>La herida de rechazo</h2>
+           <p>Es importante entender la herida de rechazo partiendo de la definición de la palabra “rechazo” en donde se evidencia concordancia con denegar, resistir, oposición o desprecio.El rechazo es una herida bastante profunda ya que el individuo desde corta edad siente que es rechazado todo el tiempo en su interior.
+           </p>
+       </div>
+
+   </section>
+
+   <section class="seccion3">
+       <figure>
+           <iframe width="640" height="360" src="https://www.youtube.com/embed/L7Te5Q1yNTk" title="Sanando la herida de abandono: Cómo encontrar la fortaleza interior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       </figure>
+
+       <div>
+           <h2>La herida de abandono</h2>
+           <p>
+               El abandonar a una persona hace referencia a apartarse; está herida hace referencia al plano del tener y del hacer y no del ser cómo tal; en muchos casos se ha evidenciado que las personas que sufren de esta herida tuvieron muchos problemas de comunicación en su infancia.
+           </p>
+       </div>
+   </section>
+
+   <section class="seccion1">
+       <figure>
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/EvXWdvsSd1s" title="HERIDA DE HUMILLACION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </figure>
+       
+
+       <div>
+           <h2>La herida de humillación</h2>
+           <p>
+               La palabra humillación hace referencia a la acción de abatir el orgullo y la altivez de una persona, herir a una persona y afectar su dignidad o sentirse rebajado; en donde se van a sentir emociones conectadas con la sumisión y la vergüenza.
+               El origen de esta herida parte en el momento en que el niño siente por parte de sus progenitores vergüenza por el mismo, por hablar de él o por situaciones que se presentan en donde el niño se siente menospreciado, comparado o rebajado.
+           </p>
+
+       </div>
+   </section>
+
+   <section class="seccion2">
+       <figure>
+           <iframe width="639" height="360" src="https://www.youtube.com/embed/RbHYyzccnXI" title="HERIDA DE TRAICION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       </figure>
+
+       <div>
+           <h2>La herida de la traición</h2>
+           <p>
+               La herida de traición está conectada con la fidelidad que es su antónimo y va a aludir a personas que son comprometidas, fieles y devotas; cuando se evidencian situaciones contrarias a estos atributos se origina la herida de traición; es importante entender que esta herida se original cuando el niño está pasando por una faceta la cual se siente traicionado constantemente por sus padres y va a ocasionar que con el tiempo la persona adquiera una máscara controladora ante las personas y las situaciones.
+
+           </p>
+       </div>
+
+   </section>
+
+
+    <footer>
+        <address>Derechos reservados lunatica.com</address>
+
+        <div>
+            <a href="#">Facebook</a>-
+            <a href="#">Instagram</a>-
+            <a href="#">Twitter</a>
+        </div>
+
+    </footer>
+
+</body>
+</html>

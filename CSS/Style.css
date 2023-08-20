@@ -1,0 +1,276 @@
+body 
+{
+    font-family: 'Raleway', sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+nav
+{
+    width: 100%; /* Ancho */
+    height: 100px;
+    background-color:rgb(49, 39, 131);
+    
+}
+
+nav ul li
+{
+list-style-type:none;
+display: inline-block;
+transition: 0.8s all;
+padding: 18px 20px;
+}
+
+nav ul li:hover
+{
+    background-color: rgb(66, 186, 234);
+}
+
+.img-logo
+{
+    width: 60px;
+    padding: 10px;
+    /*padding-right: 20px;*/
+    padding-top: 2%;
+}
+
+nav ul
+{
+    padding: 10px;
+    display: inline-flex;
+    position: relative;
+    /*top: -30px;*/
+    
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+
+h1,h2,ul,figure,img
+{
+    margin: 0;
+}
+
+img
+{
+    max-width: 100%;
+}
+
+section
+{
+    padding: 30px;
+}
+
+section, h2
+{
+    border-bottom: 1px solid black;
+    vertical-align: top;
+    text-align: center;
+}
+
+.texbineta
+{
+    text-align:left; 
+}
+
+.seccion1
+{
+background-color: rgb(221, 210, 255);
+}
+
+.seccion2
+{
+background-color: rgb(253, 255, 210);
+}
+
+.seccion3
+{
+background-color: rgb(249, 192, 249);
+}
+
+form p
+{
+    text-align: justify;
+    background-color: rgba(166, 168, 169, 0.4);
+    width: 60%;
+}
+
+footer
+{
+    width: 100%; /* Ancho */
+    height: 100px;
+    background-color:rgb(49, 39, 131);
+    line-height: 30px;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+footer div a
+{
+    text-decoration: none;
+    color:white
+
+}
+
+footer, address,a
+{
+    color: white;
+    text-decoration:none;
+    
+}
+
+.video
+{
+    width: 60%;
+    padding: 50px;
+}
+
+.texto
+{
+    width: 70%;
+    padding: 8px;
+    vertical-align: top;
+}
+
+.ArtSeccion2
+{
+    width: 100%;
+    padding: 8px;
+    vertical-align: top;
+    background-color: rgb(190, 177, 4);
+}
+
+article
+{
+    padding: 30px;
+    background-color: rgb(185, 123, 239);
+}
+
+article, h1
+{
+    border-bottom: 1px solid white;
+    
+}
+
+.texto, .video
+{
+    display: inline-block;
+}
+
+.boton
+{
+    text-align: center;
+    background-color: rgb(135, 11, 244);
+    padding: 10px;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+.ArtSeccion3
+{
+    background-color: rgb(243, 92, 247);
+ }   
+
+
+
+ .formulario{
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+
+.formulario .form-group{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.formulario input[type="text"],
+.formulario input[type="password"]{
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    vertical-align: top;
+    border-radius: 20px;
+    background: rgba(113, 134, 255, 0.23);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.6px);
+    -webkit-backdrop-filter: blur(9.6px);
+    border: 1px solid rgba(166, 255, 113, 0.21);
+}
+
+
+.formulario .icono{
+    padding: 15px;
+    text-align: center;
+    width: 48px;
+    max-height: 48px;
+    font-size: 18px;
+    line-height: 18px;
+    display: inline-block;
+    color: rgb(54, 54, 54);
+    vertical-align: top;
+}
+
+
+.formulario .icono .izquierda {
+    margin-right: 4px;
+    border-radius: 3px 0 0 3px;
+    /* From https://css.glass */
+  
+}
+
+.formulario .usuario,
+.formulario.password{
+    border-radius: 0 3px 3px 0;
+}
+
+.formulario .password_btn{
+    width: calc(100% - 105px);
+}
+
+.formulario .error ul{
+    padding: 0 15px;
+}
+
+.formulario.error ul li{
+    margin-bottom: 10px;
+}
+
+
+.formulario .submit-btn{
+    padding: 15px;
+    text-align: center;
+    width: 48px;
+    font-size: 18px;
+    background:#2ea300;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+
+.texto-registrate{
+    text-align: center;
+    margin-top: 30px;
+}
+.texto{
+    text-align: center;
+}
+
+.texto-registrate-enlace{
+    text-decoration: none;
+    color: #826aee;
+    font-size: 18px;
+    
+}
