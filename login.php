@@ -2,7 +2,7 @@
 
 if(isset($_SESSION['usuario']))
 {
-    header("Location: index.php");
+    header("Location: index2.html");
 }
 
 $errores = '';
@@ -32,7 +32,7 @@ $errores = '';
         if($resultado !== false)
             {
                 $_SESSION['usuario'] = $usuario;
-                header("location: index.php");
+                header("location: index2.html");
             }
         else
             {
